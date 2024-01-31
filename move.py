@@ -22,5 +22,5 @@ def move_files_to_main_folder(root_folder):
 
 if __name__ == "__main__":
     # Ganti path_folder_utama dengan path folder utama Anda
-    path_folder_utama = 'D:\\Bisnis\\TES IMGBB\\downloaded_images'
+    path_folder_utama = 'LOKASI\\FOLDER\UTAMA'
     move_files_to_main_folder(path_folder_utama)
